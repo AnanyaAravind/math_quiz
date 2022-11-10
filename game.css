@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(203, 234, 196);
+}
+#output{
+    background:rgb(181, 212, 183) ;
+    border-radius: 10px;
+    padding:10px;
+    float:none;
+    text-align:center;
+    border-top:10px solid rgb(116, 155, 126);
+}

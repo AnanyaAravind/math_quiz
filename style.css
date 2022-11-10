@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(195, 218, 210);
+}
+h3{
+    color: rgb(41, 106, 80);
+    font-family: 'Times New Roman', Times, serif;
+}
+hr{
+    height: 5px;
+    background: rgb(27, 173, 149);
+    
+}
